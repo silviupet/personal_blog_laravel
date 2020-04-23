@@ -63,7 +63,7 @@ class AdminPostsController extends Controller
 ////            'title'=>'required|max:5',
 //////            'descriprion '=>'required'
 ////
-//////this - pt ca e parte a controllerului met vslidste primste 2 argumente, requestul si un array de proprietati
+//////this - pt ca e parte a controllerului met validate primste 2 argumente, requestul si un array de proprietati
 ////        ]);
 ////        dd($request);//
 
