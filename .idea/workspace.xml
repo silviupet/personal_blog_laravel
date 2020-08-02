@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="825e2579-05ec-4d62-9336-1b661fa5d517" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/blog_laravel6.0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/blog_laravel6.0.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/1/cars/lambo_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/1/cars/thumbs/lambo_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/1/folderinimages/lambo_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/1/folderinimages/thumbs/lambo_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/1531234803DSC05830.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/1585327335IMG-20161023-WA0072.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/1585327339IMG-20161023-WA0072.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/1585327392IMG-20161023-WA0072.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/1585504748IMG-20161023-WA0072.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/1585518382IMG-20161023-WA0072.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/1585747933IMG-20161023-WA0057.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/1585747977IMG-20161023-WA0072.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +15,7 @@
   </component>
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -115,37 +105,31 @@
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
       <path value="$PROJECT_DIR$/vendor/symfony/process" />
       <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
     </include_path>
   </component>
   <component name="ProjectId" id="1afyztNKZJuhhmv4SqkRVy3USYm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AdvancedPHP_3" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner scope="XML" />
       <method v="2" />
     </configuration>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -160,18 +144,37 @@
       <workItem from="1587141212005" duration="121000" />
       <workItem from="1587148891102" duration="652000" />
       <workItem from="1587655774292" duration="1773000" />
-      <workItem from="1587657603316" duration="330000" />
+      <workItem from="1587657603316" duration="1215000" />
+      <workItem from="1594985215922" duration="902000" />
+      <workItem from="1594988562510" duration="753000" />
+      <workItem from="1594989673869" duration="31000" />
+      <workItem from="1594989725744" duration="49000" />
+      <workItem from="1594989980451" duration="27000" />
+      <workItem from="1594990178314" duration="191000" />
+      <workItem from="1594990399298" duration="36000" />
+      <workItem from="1595161938900" duration="3251000" />
+      <workItem from="1595882926201" duration="1238000" />
+      <workItem from="1595926682118" duration="763000" />
+      <workItem from="1595961801684" duration="1195000" />
+      <workItem from="1596361567720" duration="2578000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="316" key="com.intellij.ide.util.TipDialog" timestamp="1587657605241">
+    <state x="420" y="247" key="FileChooserDialogImpl" timestamp="1595962397808">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="-1440" y="218" key="com.intellij.ide.util.TipDialog/0.0.1280.984/-1920.-116.1920.1040@-1920.-116.1920.1040" timestamp="1587655775006" />
-    <state x="320" y="316" key="com.intellij.ide.util.TipDialog/0.0.1280.984/-1920.-116.1920.1040@0.0.1280.984" timestamp="1587657605241" />
+    <state x="420" y="247" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1595962397808" />
+    <state x="141" y="136" key="SettingsEditor" timestamp="1596362027550">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="141" y="136" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1596362027550" />
+    <state x="320" y="316" key="com.intellij.ide.util.TipDialog" timestamp="1594990418300">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="320" y="316" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1594990418300" />
   </component>
 </project>
