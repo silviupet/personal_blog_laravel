@@ -1,10 +1,10 @@
-<script src="//cdn.tinymce.com/4/tinymce.min.js"></script>
+{{--<script src="//cdn.tinymce.com/4/tinymce.min.js"></script>--}}
 <!--<script> tinymce.init({selector:'textarea'});</script>-->
-
+<strong><script src="https://cdn.tiny.cloud/1/ubnty7v18l1xku8noulq7jwlvgez3fjwnx5pqug599zqnpjt/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script></strong>
 
 
 <script>
-    
+
     var editor_config = {
         path_absolute : "/",
         selector: "textarea",
